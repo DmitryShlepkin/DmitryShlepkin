@@ -1,4 +1,4 @@
-### Hi there, welcome to github 👋
+### Hi there, welcome to my github 👋
 
 <!--
 **DmitryShlepkin/DmitryShlepkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
